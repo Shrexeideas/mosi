@@ -1,0 +1,6 @@
+{
+  "name": "Long-Distance Mosquito",
+  "description": "One tiny mosquito. One very light sleeper. A quirky 2D stealth-arcade game of midnight sipping, daring swats, and near-miss escapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
